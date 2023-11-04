@@ -13,8 +13,8 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/EvgiSs/social-media-dashboard-with-theme-switcher)
-- [Live Site URL](https://evgiss.github.io/social-media-dashboard-with-theme-switcher/)
+- [Solution URL](https://github.com/EugiSs/social-media-dashboard-with-theme-switcher)
+- [Live Site URL](https://eugiss.github.io/social-media-dashboard-with-theme-switcher/)
 
 ### Screenshot
 
@@ -40,5 +40,5 @@ app development with Vue3, Composition API
 
 ## Author
 
-- Website - [EvgiSs](https://github.com/EvgiSs)
-- Frontend Mentor - [@Evgi](https://www.frontendmentor.io/profile/EvgiSs)
+- Website - [EugiSs](https://github.com/EugiSs)
+- Frontend Mentor - [@Eugi](https://www.frontendmentor.io/profile/EugiSs)
